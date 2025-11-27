@@ -7,10 +7,10 @@
 <div align="center">
   <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCipDev&layout=compact&langs_count=7&theme=dracula&hide=css,html" />
 
-  <img width="38%" height="250px"
+<!--  <img width="38%" height="250px"
        src="https://github-profile-trophy.vercel.app/?username=FelipeCipDev&theme=dracula&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
 </div>
-
+-->
 ---
 
 ## 👨‍💻 About Me
