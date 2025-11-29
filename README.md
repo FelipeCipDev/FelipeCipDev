@@ -9,8 +9,9 @@
 
 <!--  <img width="38%" height="250px"
        src="https://github-profile-trophy.vercel.app/?username=FelipeCipDev&theme=dracula&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
-</div>
 -->
+</div>
+
 ---
 
 ## 👨‍💻 About Me
