@@ -56,7 +56,7 @@ I have a strong interest in **AI applied to business**, especially using modern 
 
 ### [**FATEC Sebrae – InterFATECs Marathon (2025 Edition)**](https://fatecsebrae.cps.sp.gov.br/participacao-dos-alunos-de-ciencia-de-dados-para-negocios-da-fatec-sebrae-na-14a-maratona-interfatecs-2025-formacao-protagonismo-e-valores-institucionais/)
 
-<img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/181/2025/05/WhatsApp-Image-2025-05-12-at-21.41.26.jpeg" width="100%" />
+<img src="https://github.com/FelipeCipDev/FelipeCipDev/blob/main/img/maratona_inter-fatecs.jpeg" width="100%" />
 
 **Data Science Competitor – 2025 (10/04)**
 - Participation in the **14th InterFATECs Marathon**, representing FATEC Sebrae.
@@ -67,7 +67,7 @@ I have a strong interest in **AI applied to business**, especially using modern 
 
 ### [**FATEC Sebrae – LIA Chatbot Project (MetaDay Event)**](https://fatecsebrae.cps.sp.gov.br/alunos-do-curso-de-ciencia-de-dados-para-negocios-marcaram-presenca-no-3o-meta-day-fatec-sebrae-etec-sebrae-e-faculdade-sebrae/)
 
-<img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/181/2025/11/WhatsApp-Image-2025-11-03-at-20.16.47.jpeg" width="100%" />
+<img src="https://github.com/FelipeCipDev/FelipeCipDev/blob/main/img/MetaDay_Evento.jpeg" width="100%" />
 
 **Data Science Student – 2025 (01/11)**
 - Participation in the development of **LIA**, an intelligent chatbot showcased at **MetaDay**, an innovation and technology event at FATEC & ETEC Sebrae.
@@ -76,7 +76,10 @@ I have a strong interest in **AI applied to business**, especially using modern 
 
 ---
 
-### **ETEC Basilides Professor de Godoy – FinUnsize Project (Inventory and Financial Platform)**
+### [**ETEC Basilides Professor de Godoy – FinUnsize Project (Inventory and Financial Platform)**](https://www.sympla.com.br/evento/fatec-expoweek/2174811)
+
+<img src="https://github.com/FelipeCipDev/FelipeCipDev/blob/main/img/FatecOsasco_ExpoWeek.jpeg" width="100%" />
+
 **System Analyst – Jan 2023 / Jul 2023**
 - Creation of software diagrams and models.
 - Listing and qualifying system requirements.
